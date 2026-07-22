@@ -1,0 +1,7686 @@
+{
+  "base_seed": 20260709,
+  "entries": [
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 1,
+      "seed": 37406801701430903
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 2,
+      "seed": 8275226067622051987
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 3,
+      "seed": 4455064623836025327
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 4,
+      "seed": 170709018678082910
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 5,
+      "seed": 8923244548978471398
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 6,
+      "seed": 5954245571428441338
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 7,
+      "seed": 4066507554662398184
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 8,
+      "seed": 2411703121428551742
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 9,
+      "seed": 274644472343394232
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 10,
+      "seed": 3221470676292845390
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 11,
+      "seed": 6075594800535643394
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 12,
+      "seed": 680319012733819570
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 13,
+      "seed": 8474385068610196095
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 14,
+      "seed": 2523732817387793278
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 15,
+      "seed": 2457498204795090239
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 16,
+      "seed": 8737460482005785723
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 17,
+      "seed": 8557432632949182365
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 18,
+      "seed": 8024277005945592373
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 19,
+      "seed": 1919932140299301938
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 20,
+      "seed": 3490873891154684598
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 21,
+      "seed": 3741594556480984076
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 22,
+      "seed": 4702825281546766946
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 23,
+      "seed": 7338314823885295557
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 24,
+      "seed": 4079640580313647943
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 25,
+      "seed": 4511922627314406409
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 26,
+      "seed": 5084030962149322326
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 27,
+      "seed": 8274990705966338914
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 28,
+      "seed": 6906554720750818630
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 29,
+      "seed": 1369703408308659309
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 0,
+      "parameter_label": "Politics=true;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 30,
+      "seed": 6826205288266535699
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 31,
+      "seed": 3932073291537281792
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 32,
+      "seed": 849735099556310327
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 33,
+      "seed": 8151251152732714654
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 34,
+      "seed": 155198605841743548
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 35,
+      "seed": 2770326077618894563
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 36,
+      "seed": 407059684099820129
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 37,
+      "seed": 5235263480320695876
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 38,
+      "seed": 3630052749363829726
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 39,
+      "seed": 7528642318921642881
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 40,
+      "seed": 4783710650029714174
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 41,
+      "seed": 2733837686569161417
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 42,
+      "seed": 645307204155883448
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 43,
+      "seed": 5082200580582824906
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 44,
+      "seed": 1655059673239299183
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 45,
+      "seed": 8665295265298452835
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 46,
+      "seed": 2425910224506296963
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 47,
+      "seed": 2873965493659512815
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 48,
+      "seed": 6714189302224351023
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 49,
+      "seed": 2750782467962814755
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 50,
+      "seed": 3026149021339433994
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 51,
+      "seed": 3495255886520764488
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 52,
+      "seed": 729010505387986967
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 53,
+      "seed": 5676324260835347467
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 54,
+      "seed": 8141341864607113365
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 55,
+      "seed": 8880965929429825347
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 56,
+      "seed": 6776469460180107485
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 57,
+      "seed": 956225207774316371
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 58,
+      "seed": 4402754151279795077
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 59,
+      "seed": 5167554835799468500
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 1,
+      "parameter_label": "Politics=true;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 60,
+      "seed": 274240296239497096
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 61,
+      "seed": 2595884311256370468
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 62,
+      "seed": 7066858248287386192
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 63,
+      "seed": 5170863731721359
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 64,
+      "seed": 8334005228501657313
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 65,
+      "seed": 5930787289707378238
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 66,
+      "seed": 1695885519395552596
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 67,
+      "seed": 544941229657672197
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 68,
+      "seed": 1280281383602642500
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 69,
+      "seed": 4913906698175268035
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 70,
+      "seed": 5791955864991485277
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 71,
+      "seed": 8858607511998791964
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 72,
+      "seed": 2373534861336736340
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 73,
+      "seed": 2477196772237570267
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 74,
+      "seed": 5904115990582247216
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 75,
+      "seed": 7013035078349317349
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 76,
+      "seed": 2784597533086147171
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 77,
+      "seed": 4498361144406589227
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 78,
+      "seed": 2754325718145944870
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 79,
+      "seed": 1170553538871017650
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 80,
+      "seed": 52349042497682380
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 81,
+      "seed": 2385914556069166949
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 82,
+      "seed": 6472638318241690389
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 83,
+      "seed": 3143105804512617247
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 84,
+      "seed": 4639563367925977768
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 85,
+      "seed": 355755070586970278
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 86,
+      "seed": 3834784376106693919
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 87,
+      "seed": 6902458744179295070
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 88,
+      "seed": 9181999320242718692
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 89,
+      "seed": 7460895764124621848
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 2,
+      "parameter_label": "Politics=false;Develop=true",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 90,
+      "seed": 3255187087887605554
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 91,
+      "seed": 6411362054038315424
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 92,
+      "seed": 2345971503169374013
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 93,
+      "seed": 6672400233520280594
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 94,
+      "seed": 5624900951319751697
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 95,
+      "seed": 1476842341133665712
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 96,
+      "seed": 7949410309596173487
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 97,
+      "seed": 7364855837693665225
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 98,
+      "seed": 3128502295106804806
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 99,
+      "seed": 823985694640548255
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 100,
+      "seed": 839564830150762436
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 101,
+      "seed": 7975071015370756767
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 102,
+      "seed": 7597631896230100358
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 103,
+      "seed": 1651006336449015583
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 104,
+      "seed": 7879465289501146618
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 105,
+      "seed": 7705445099439147408
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 106,
+      "seed": 6691339190661251037
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 107,
+      "seed": 945317506792967541
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 108,
+      "seed": 3269857362120461992
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 109,
+      "seed": 3452102722385307848
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 110,
+      "seed": 3471119029632150607
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 111,
+      "seed": 3096460699594082440
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 112,
+      "seed": 6979478591833535642
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 113,
+      "seed": 4325740743393602655
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 114,
+      "seed": 552650362064451445
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 115,
+      "seed": 1190889950237212317
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 116,
+      "seed": 3119667956384649892
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 117,
+      "seed": 5185141662053524022
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 118,
+      "seed": 5929112977668885200
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 119,
+      "seed": 6015269863148986796
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 2,
+      "experiment_name": "Politics and Development ON OFF",
+      "parameter_combination_index": 3,
+      "parameter_label": "Politics=false;Develop=false",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          false
+        ],
+        [
+          "Develop",
+          false
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 120,
+      "seed": 2464568266487929323
+    }
+  ],
+  "schema": "yatasterps.slumulation.seed_manifest.v1"
+}

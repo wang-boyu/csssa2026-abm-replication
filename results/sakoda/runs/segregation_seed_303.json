@@ -1,0 +1,1410 @@
+{
+  "attitudes": {
+    "Crosses": {
+      "other_group": -1,
+      "own_group": 1
+    },
+    "Squares": {
+      "other_group": -1,
+      "own_group": 1
+    }
+  },
+  "board": {
+    "columns": 8,
+    "rows": 8
+  },
+  "cycles_completed": 9,
+  "display_name": "Segregation",
+  "distance_weight": 4,
+  "final_positions": [
+    {
+      "column": 7,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 1,
+      "row": 2
+    },
+    {
+      "column": 7,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 2,
+      "row": 3
+    },
+    {
+      "column": 8,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 3,
+      "row": 4
+    },
+    {
+      "column": 8,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 4,
+      "row": 3
+    },
+    {
+      "column": 8,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 5,
+      "row": 2
+    },
+    {
+      "column": 7,
+      "group": "Squares",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 6,
+      "row": 4
+    },
+    {
+      "column": 1,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 1,
+      "row": 6
+    },
+    {
+      "column": 1,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 2,
+      "row": 7
+    },
+    {
+      "column": 1,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 3,
+      "row": 8
+    },
+    {
+      "column": 2,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 4,
+      "row": 6
+    },
+    {
+      "column": 2,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 5,
+      "row": 8
+    },
+    {
+      "column": 2,
+      "group": "Crosses",
+      "other_group_valence": -1,
+      "own_group_valence": 1,
+      "piece_number": 6,
+      "row": 7
+    }
+  ],
+  "group_size": 6,
+  "jump_rule": "adjacent_first_then_all_unoccupied_cells_within_chebyshev_distance_2_when_no_adjacent_strict_improvement",
+  "max_cycles": 50,
+  "metrics_by_cycle": [
+    {
+      "centroid_distance": 3.4318767136623336,
+      "checkerboard_alignment": 0.6666666666666666,
+      "crosses_centroid_column": 3.1666666666666665,
+      "crosses_centroid_row": 4.5,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 2.953340857778225,
+      "crosses_edge_count": 3,
+      "crosses_mean_center_distance": 3.194300412135347,
+      "crosses_moves": 0,
+      "cycle": 0,
+      "mean_nearest_other_distance": 2.6074400165765166,
+      "mean_nearest_same_distance": 2.1701547277128945,
+      "mixed_adjacent_pairs": 1,
+      "mixed_nearest_neighbor_count": 4,
+      "movement_count": 0,
+      "same_group_adjacent_pairs": 5,
+      "squares_centroid_column": 6.166666666666667,
+      "squares_centroid_row": 2.8333333333333335,
+      "squares_corner_count": 0,
+      "squares_dispersion": 2.3687784005919825,
+      "squares_edge_count": 4,
+      "squares_mean_center_distance": 3.1181810305501503,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 4.333333333333333,
+      "checkerboard_alignment": 0.6666666666666666,
+      "crosses_centroid_column": 2.6666666666666665,
+      "crosses_centroid_row": 4.5,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 2.852873794770615,
+      "crosses_edge_count": 3,
+      "crosses_mean_center_distance": 3.3586377703247376,
+      "crosses_moves": 5,
+      "cycle": 1,
+      "mean_nearest_other_distance": 3.782207317808276,
+      "mean_nearest_same_distance": 1.659265804587034,
+      "mixed_adjacent_pairs": 1,
+      "mixed_nearest_neighbor_count": 2,
+      "movement_count": 11,
+      "same_group_adjacent_pairs": 13,
+      "squares_centroid_column": 6.666666666666667,
+      "squares_centroid_row": 2.8333333333333335,
+      "squares_corner_count": 0,
+      "squares_dispersion": 1.4240006242195884,
+      "squares_edge_count": 1,
+      "squares_mean_center_distance": 2.9663828368633225,
+      "squares_moves": 6,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 5.666666666666667,
+      "checkerboard_alignment": 0.5,
+      "crosses_centroid_column": 2.3333333333333335,
+      "crosses_centroid_row": 5.5,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 2.3392781412696997,
+      "crosses_edge_count": 3,
+      "crosses_mean_center_distance": 3.313245662491535,
+      "crosses_moves": 5,
+      "cycle": 2,
+      "mean_nearest_other_distance": 4.538088187978086,
+      "mean_nearest_same_distance": 1.3415849594660656,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 1,
+      "movement_count": 9,
+      "same_group_adjacent_pairs": 18,
+      "squares_centroid_column": 7.333333333333333,
+      "squares_centroid_row": 2.8333333333333335,
+      "squares_corner_count": 0,
+      "squares_dispersion": 1.0137937550497034,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.3694855482168395,
+      "squares_moves": 4,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 5.96284793999944,
+      "checkerboard_alignment": 0.5,
+      "crosses_centroid_column": 2.1666666666666665,
+      "crosses_centroid_row": 5.666666666666667,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 2.1666666666666665,
+      "crosses_edge_count": 4,
+      "crosses_mean_center_distance": 3.3586377703247376,
+      "crosses_moves": 1,
+      "cycle": 3,
+      "mean_nearest_other_distance": 5.354128409458877,
+      "mean_nearest_same_distance": 1.2893446629166316,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 1,
+      "movement_count": 2,
+      "same_group_adjacent_pairs": 19,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 1,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 6.112373606964083,
+      "checkerboard_alignment": 0.5833333333333334,
+      "crosses_centroid_column": 2.0,
+      "crosses_centroid_row": 5.666666666666667,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 1.8856180831641267,
+      "crosses_edge_count": 4,
+      "crosses_mean_center_distance": 3.313245662491535,
+      "crosses_moves": 1,
+      "cycle": 4,
+      "mean_nearest_other_distance": 5.549253884223826,
+      "mean_nearest_same_distance": 1.2171292729553325,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 1,
+      "same_group_adjacent_pairs": 19,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 5.871304984602847,
+      "checkerboard_alignment": 0.5833333333333334,
+      "crosses_centroid_column": 2.6666666666666665,
+      "crosses_centroid_row": 6.333333333333333,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 1.0540925533894598,
+      "crosses_edge_count": 0,
+      "crosses_mean_center_distance": 2.7644709429884107,
+      "crosses_moves": 4,
+      "cycle": 5,
+      "mean_nearest_other_distance": 5.165782190102362,
+      "mean_nearest_same_distance": 1.0,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 4,
+      "same_group_adjacent_pairs": 21,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 6.335525936249404,
+      "checkerboard_alignment": 0.5833333333333334,
+      "crosses_centroid_column": 2.3333333333333335,
+      "crosses_centroid_row": 6.666666666666667,
+      "crosses_corner_count": 0,
+      "crosses_dispersion": 1.0540925533894598,
+      "crosses_edge_count": 2,
+      "crosses_mean_center_distance": 3.1839298750335985,
+      "crosses_moves": 2,
+      "cycle": 6,
+      "mean_nearest_other_distance": 5.451491114226094,
+      "mean_nearest_same_distance": 1.0,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 2,
+      "same_group_adjacent_pairs": 21,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 7.033649282003065,
+      "checkerboard_alignment": 0.5833333333333334,
+      "crosses_centroid_column": 1.8333333333333333,
+      "crosses_centroid_row": 7.166666666666667,
+      "crosses_corner_count": 1,
+      "crosses_dispersion": 0.9718253158075502,
+      "crosses_edge_count": 3,
+      "crosses_mean_center_distance": 3.819759756021083,
+      "crosses_moves": 4,
+      "cycle": 7,
+      "mean_nearest_other_distance": 6.075305821159071,
+      "mean_nearest_same_distance": 1.0,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 4,
+      "same_group_adjacent_pairs": 22,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 7.211102550927978,
+      "checkerboard_alignment": 0.5,
+      "crosses_centroid_column": 1.5,
+      "crosses_centroid_row": 7.0,
+      "crosses_corner_count": 1,
+      "crosses_dispersion": 0.9574271077563381,
+      "crosses_edge_count": 4,
+      "crosses_mean_center_distance": 3.9684948569393,
+      "crosses_moves": 1,
+      "cycle": 8,
+      "mean_nearest_other_distance": 6.310517123862794,
+      "mean_nearest_same_distance": 1.0,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 1,
+      "same_group_adjacent_pairs": 22,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": false,
+      "stop_reason": "running"
+    },
+    {
+      "centroid_distance": 7.211102550927978,
+      "checkerboard_alignment": 0.5,
+      "crosses_centroid_column": 1.5,
+      "crosses_centroid_row": 7.0,
+      "crosses_corner_count": 1,
+      "crosses_dispersion": 0.9574271077563381,
+      "crosses_edge_count": 4,
+      "crosses_mean_center_distance": 3.9684948569393,
+      "crosses_moves": 0,
+      "cycle": 9,
+      "mean_nearest_other_distance": 6.310517123862794,
+      "mean_nearest_same_distance": 1.0,
+      "mixed_adjacent_pairs": 0,
+      "mixed_nearest_neighbor_count": 0,
+      "movement_count": 0,
+      "same_group_adjacent_pairs": 22,
+      "squares_centroid_column": 7.5,
+      "squares_centroid_row": 3.0,
+      "squares_corner_count": 0,
+      "squares_dispersion": 0.9574271077563381,
+      "squares_edge_count": 3,
+      "squares_mean_center_distance": 3.440850450422964,
+      "squares_moves": 0,
+      "stable": true,
+      "stop_reason": "stable_no_position_changes"
+    }
+  ],
+  "movement_order": "one_seeded_random_shuffle_of_all_pieces_per_cycle",
+  "positions_by_cycle": [
+    {
+      "cycle": 0,
+      "positions": [
+        {
+          "column": 5,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 1
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 2
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 6
+        },
+        {
+          "column": 5,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 2
+        },
+        {
+          "column": 6,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 1
+        },
+        {
+          "column": 5,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 5
+        },
+        {
+          "column": 8,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 5
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 5
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 4
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 2
+        }
+      ]
+    },
+    {
+      "cycle": 1,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 5
+        },
+        {
+          "column": 6,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 1
+        },
+        {
+          "column": 6,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 7
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 4
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 3
+        }
+      ]
+    },
+    {
+      "cycle": 2,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 6,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 3
+        },
+        {
+          "column": 7,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 7
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 5
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 5
+        }
+      ]
+    },
+    {
+      "cycle": 3,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 6,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 5
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 5
+        }
+      ]
+    },
+    {
+      "cycle": 4,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 5,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 5
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 5
+        }
+      ]
+    },
+    {
+      "cycle": 5,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 4,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 7
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 5
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 7
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 7
+        }
+      ]
+    },
+    {
+      "cycle": 6,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 8
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 6
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 7
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 7
+        }
+      ]
+    },
+    {
+      "cycle": 7,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 3,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 7
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 7
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 7
+        }
+      ]
+    },
+    {
+      "cycle": 8,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 7
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 7
+        }
+      ]
+    },
+    {
+      "cycle": 9,
+      "positions": [
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 4
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 3
+        },
+        {
+          "column": 8,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 2
+        },
+        {
+          "column": 7,
+          "group": "Squares",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 4
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 1,
+          "row": 6
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 2,
+          "row": 7
+        },
+        {
+          "column": 1,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 3,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 4,
+          "row": 6
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 5,
+          "row": 8
+        },
+        {
+          "column": 2,
+          "group": "Crosses",
+          "other_group_valence": -1,
+          "own_group_valence": 1,
+          "piece_number": 6,
+          "row": 7
+        }
+      ]
+    }
+  ],
+  "scenario": "segregation",
+  "seed": 303,
+  "source_caption": "Segregation",
+  "stop_reason": "stable_no_position_changes",
+  "tie_policy": "prefer_staying_over_equal_score_moves; random_ties_among_equal_moving_scores"
+}

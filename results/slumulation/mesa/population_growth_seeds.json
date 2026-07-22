@@ -1,0 +1,5766 @@
+{
+  "base_seed": 20260709,
+  "entries": [
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 1,
+      "seed": 3201508095562712521
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 2,
+      "seed": 5092546402058682802
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 3,
+      "seed": 4777609446814294318
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 4,
+      "seed": 8478556024751834072
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 5,
+      "seed": 9123702954757770746
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 6,
+      "seed": 8918178489703191988
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 7,
+      "seed": 1732847932323077860
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 8,
+      "seed": 1369554009587008798
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 9,
+      "seed": 2285663437476820759
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 10,
+      "seed": 7311486516099764501
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 11,
+      "seed": 403737375599756754
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 12,
+      "seed": 7382599745555206413
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 13,
+      "seed": 4901156084522748685
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 14,
+      "seed": 8973075264971670687
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 15,
+      "seed": 4178324944393063060
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 16,
+      "seed": 3756892642350077147
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 17,
+      "seed": 9048974888270652007
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 18,
+      "seed": 2613950421210817774
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 19,
+      "seed": 2968509745393190200
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 20,
+      "seed": 6610287385845003096
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 21,
+      "seed": 9188924451395558586
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 22,
+      "seed": 661892911919658490
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 23,
+      "seed": 5106427067825730133
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 24,
+      "seed": 5827495738233889006
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 25,
+      "seed": 5590416231082961788
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 26,
+      "seed": 6383394093525854526
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 27,
+      "seed": 1799827626580693225
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 28,
+      "seed": 5968433515411684399
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 29,
+      "seed": 4731981157886532985
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 0,
+      "parameter_label": "popgrowthrate=2",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          2
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 30,
+      "seed": 6364462558052988866
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 31,
+      "seed": 492112751894565080
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 32,
+      "seed": 5785542417309941553
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 33,
+      "seed": 2820247941955351777
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 34,
+      "seed": 2909602000761892201
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 35,
+      "seed": 6816781526111824008
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 36,
+      "seed": 5840260887276047708
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 37,
+      "seed": 2110165294587885981
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 38,
+      "seed": 1098027521863125479
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 39,
+      "seed": 5331795972592552083
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 40,
+      "seed": 1709312013762790798
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 41,
+      "seed": 609592329505727574
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 42,
+      "seed": 4028818779227681680
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 43,
+      "seed": 7072449504921471365
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 44,
+      "seed": 4454525393582220388
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 45,
+      "seed": 2692719513441392151
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 46,
+      "seed": 1053981611812324079
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 47,
+      "seed": 5052382245651149347
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 48,
+      "seed": 4911248919195681752
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 49,
+      "seed": 4483409553509291798
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 50,
+      "seed": 7726579225257690788
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 51,
+      "seed": 8422406708202832928
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 52,
+      "seed": 1093463038015562157
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 53,
+      "seed": 7248907047044247705
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 54,
+      "seed": 8538115635657914592
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 55,
+      "seed": 6615667509280294136
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 56,
+      "seed": 3471102371826503254
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 57,
+      "seed": 5851662243278677316
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 58,
+      "seed": 5917520473717428751
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 59,
+      "seed": 8962985130787994809
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 1,
+      "parameter_label": "popgrowthrate=3",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 60,
+      "seed": 1143761426177844135
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 61,
+      "seed": 4498981041539109180
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 62,
+      "seed": 7775718033067482027
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 63,
+      "seed": 1003233533607982173
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 64,
+      "seed": 2683554188855618829
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 65,
+      "seed": 1140278194688947750
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 66,
+      "seed": 2668399418683890905
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 67,
+      "seed": 465384214607197687
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 68,
+      "seed": 1992069337685639979
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 69,
+      "seed": 6461079308860414091
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 70,
+      "seed": 1778521484507850211
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 71,
+      "seed": 7398650455491738598
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 72,
+      "seed": 1598517984346565007
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 73,
+      "seed": 8713001863137423043
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 74,
+      "seed": 3600295851542915606
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 75,
+      "seed": 4607248179784446654
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 76,
+      "seed": 3321133703509073894
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 77,
+      "seed": 7422560049066899052
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 78,
+      "seed": 4278347020355613749
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 79,
+      "seed": 2962230832940545624
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 80,
+      "seed": 4314217942555771483
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 81,
+      "seed": 6655847788262261404
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 82,
+      "seed": 5986539471478831172
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 83,
+      "seed": 9054564967465289923
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 84,
+      "seed": 2912072741846873455
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 85,
+      "seed": 797723969298308651
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 86,
+      "seed": 272280274762107731
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 87,
+      "seed": 6533613540844243283
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 88,
+      "seed": 5678867751391238954
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 89,
+      "seed": 31033265365731092
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 1,
+      "experiment_name": "Population Growth Rate",
+      "parameter_combination_index": 2,
+      "parameter_label": "popgrowthrate=4",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          4
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 90,
+      "seed": 7110709203525701630
+    }
+  ],
+  "schema": "yatasterps.slumulation.seed_manifest.v1"
+}

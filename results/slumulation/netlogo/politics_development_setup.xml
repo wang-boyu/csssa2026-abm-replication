@@ -1,0 +1,64 @@
+<experiments>
+  <experiment name="Politics and Development ON OFF 30 Rep Reference" repetitions="30" runMetricsEveryStep="true">
+    <setup>setup</setup>
+    <go>Slumulate</go>
+    <metric>slumpoppercent</metric>
+    <metric>centralslumpoppercent</metric>
+    <metric>peripheryslumpoppercent</metric>
+    <metric>num-slums</metric>
+    <metric>central-num-slums</metric>
+    <metric>peripheral-num-slums</metric>
+    <metric>slumareapercent</metric>
+    <metric>centralslumareapercent</metric>
+    <metric>peripheryslumareapercent</metric>
+    <metric>slum-density</metric>
+    <metric>central-slum-density</metric>
+    <metric>periphery-slum-density</metric>
+    <metric>red-density</metric>
+    <metric>blue-density</metric>
+    <metric>green-density</metric>
+    <metric>smallest-slum</metric>
+    <metric>largest-slum</metric>
+    <enumeratedValueSet variable="staying-power">
+      <value value="0.3"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="percent-inappropriate-land">
+      <value value="10"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="informalityindex">
+      <value value="0.7"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="percent-prime-land">
+      <value value="10"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="initialcitylimit">
+      <value value="9"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="popgrowthrate">
+      <value value="3"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="SimulationRuntime">
+      <value value="50"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Politics">
+      <value value="true"/>
+      <value value="false"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Develop">
+      <value value="true"/>
+      <value value="false"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="price-sensitivity">
+      <value value="0.1"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="diffusion-rate">
+      <value value="0.03"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="economicgrowthrate">
+      <value value="2"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="initialinequality">
+      <value value="10"/>
+    </enumeratedValueSet>
+  </experiment>
+</experiments>

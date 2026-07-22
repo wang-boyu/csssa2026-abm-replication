@@ -1,0 +1,48 @@
+<experiments>
+  <experiment name="Figure 4e Typical Run Seeded Extraction" repetitions="30" runMetricsEveryStep="true">
+    <setup>random-seed (20260711 + behaviorspace-run-number) setup</setup>
+    <go>Slumulate</go>
+    <metric>behaviorspace-run-number</metric>
+    <metric>sort [slum-occupants] of patches with [slum? = true]</metric>
+    <metric>smallest-slum</metric>
+    <enumeratedValueSet variable="staying-power">
+      <value value="0.3"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="percent-inappropriate-land">
+      <value value="10"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="informalityindex">
+      <value value="0.7"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="percent-prime-land">
+      <value value="10"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="initialcitylimit">
+      <value value="9"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="popgrowthrate">
+      <value value="3"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="SimulationRuntime">
+      <value value="50"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Politics">
+      <value value="true"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="Develop">
+      <value value="true"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="price-sensitivity">
+      <value value="0.1"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="diffusion-rate">
+      <value value="0.03"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="economicgrowthrate">
+      <value value="2"/>
+    </enumeratedValueSet>
+    <enumeratedValueSet variable="initialinequality">
+      <value value="10"/>
+    </enumeratedValueSet>
+  </experiment>
+</experiments>

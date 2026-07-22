@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "csssa2026-abm-replication"
+version = "0.1.0"
+description = "Mesa replications of Ya-TASERPS, Sakoda's checkerboard model, and Slumulation."
+requires-python = ">=3.12"
+dependencies = [
+    "mesa[rec]==3.1.5",
+    "matplotlib==3.10.8",
+    "numpy",
+    "starlette<1",
+]
+[project.optional-dependencies]
+all = ["csssa2026-abm-replication[dev]"]
+dev = [
+  "pre-commit",
+  "black[jupyter]",
+  "ruff",
+  "coverage",
+  "pytest >= 4.6",
+  "pytest-cov",
+  "sphinx",
+  "pytest-mock",
+]
+
+[tool.setuptools.packages.find]
+include = ["yatasterps*", "sakoda*", "slumulation*"]

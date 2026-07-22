@@ -1,0 +1,1926 @@
+{
+  "base_seed": 20260709,
+  "entries": [
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 1,
+      "run_number": 1,
+      "seed": 6512902294699416937
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 2,
+      "run_number": 2,
+      "seed": 7231377022304299890
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 3,
+      "run_number": 3,
+      "seed": 4786558760875221914
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 4,
+      "run_number": 4,
+      "seed": 7078651828599247398
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 5,
+      "run_number": 5,
+      "seed": 2865044097428016345
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 6,
+      "run_number": 6,
+      "seed": 8651792460407218879
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 7,
+      "run_number": 7,
+      "seed": 4798352960778975599
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 8,
+      "run_number": 8,
+      "seed": 2870170757112160405
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 9,
+      "run_number": 9,
+      "seed": 1799580327007078412
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 10,
+      "run_number": 10,
+      "seed": 6472797241800602798
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 11,
+      "run_number": 11,
+      "seed": 2062687946700046674
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 12,
+      "run_number": 12,
+      "seed": 1288702035818957092
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 13,
+      "run_number": 13,
+      "seed": 7935381053558873730
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 14,
+      "run_number": 14,
+      "seed": 7674929494840036483
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 15,
+      "run_number": 15,
+      "seed": 4613624328044332388
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 16,
+      "run_number": 16,
+      "seed": 4995937566212487830
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 17,
+      "run_number": 17,
+      "seed": 4556704973082384644
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 18,
+      "run_number": 18,
+      "seed": 8476470079210904413
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 19,
+      "run_number": 19,
+      "seed": 1454548424982663689
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 20,
+      "run_number": 20,
+      "seed": 5341495872753715187
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 21,
+      "run_number": 21,
+      "seed": 5443673115960323994
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 22,
+      "run_number": 22,
+      "seed": 3595548649576362892
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 23,
+      "run_number": 23,
+      "seed": 9078909957676491917
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 24,
+      "run_number": 24,
+      "seed": 8598463949376142235
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 25,
+      "run_number": 25,
+      "seed": 3518244239738277620
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 26,
+      "run_number": 26,
+      "seed": 2395098970302324274
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 27,
+      "run_number": 27,
+      "seed": 8248253095957417848
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 28,
+      "run_number": 28,
+      "seed": 2525409785526286404
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 29,
+      "run_number": 29,
+      "seed": 1493860678497262181
+    },
+    {
+      "base_seed": 20260709,
+      "experiment_index": 0,
+      "experiment_name": "Typical Run",
+      "parameter_combination_index": 0,
+      "parameter_label": "baseline",
+      "parameter_values": [
+        [
+          "staying-power",
+          0.3
+        ],
+        [
+          "percent-inappropriate-land",
+          10
+        ],
+        [
+          "informalityindex",
+          0.7
+        ],
+        [
+          "percent-prime-land",
+          10
+        ],
+        [
+          "initialcitylimit",
+          9
+        ],
+        [
+          "popgrowthrate",
+          3
+        ],
+        [
+          "SimulationRuntime",
+          50
+        ],
+        [
+          "Politics",
+          true
+        ],
+        [
+          "Develop",
+          true
+        ],
+        [
+          "price-sensitivity",
+          0.1
+        ],
+        [
+          "diffusion-rate",
+          0.03
+        ],
+        [
+          "economicgrowthrate",
+          2
+        ],
+        [
+          "initialinequality",
+          10
+        ]
+      ],
+      "repetition_index": 30,
+      "run_number": 30,
+      "seed": 6206361787397998430
+    }
+  ],
+  "schema": "yatasterps.slumulation.seed_manifest.v1"
+}
