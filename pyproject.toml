@@ -12,6 +12,10 @@ dependencies = [
     "matplotlib==3.10.8",
     "numpy",
     "starlette<1",
+    "solara==1.60.3",
+    "ipyvuetify==1.11.3",
+    "ipyvue==1.12.0",
+    "reacton==1.9.1",
 ]
 [project.optional-dependencies]
 all = ["csssa2026-abm-replication[dev]"]
